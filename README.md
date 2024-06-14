@@ -2,7 +2,7 @@
 - 预览地址：[http://diancan.liuyanzhao.com](http://diancan.liuyanzhao.com) 
 - 详细介绍地址：[https://liuyanzhao.com/shop/diancan.html](https://liuyanzhao.com/shop/diancan.html)
 - 演示视频：链接:https://pan.baidu.com/s/1FKQqb2S6MihW_1-C8nBIXA  密码:1xka
-- 完成时间：2024年4月
+
 
 # 一、用户需求
 ```
